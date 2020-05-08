@@ -1,7 +1,7 @@
 # Image Captioning Project
 Image Captioning using CNN-RNN architecture made with :heart: in Pytorch
 
-# Instructions  
+## Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
